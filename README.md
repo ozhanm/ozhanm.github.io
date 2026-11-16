@@ -6,3 +6,4 @@ Geliştirici sitesi: Play mağaza girişlerindeki "Web sitesi" adresi (`https://
   uygulamalar aynı yayıncı kimliğini kullandığı için tek satır hepsine yeter.
 - `index.html` — uygulamaların listesi, Play ve gizlilik politikası bağlantıları. Yeni uygulama
   yayınlanınca buraya bir kart eklenir.
+- `icons/` — uygulama ikonları, 192×192 PNG (her uygulamanın `assets/icon.png` dosyasından küçültülür).
